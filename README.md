@@ -46,7 +46,7 @@ After you created the request object, you send it over to the microservice using
     return response
 ```
 
-**C.**
+**C.** UML sequence diagram:
 ![Screenshot 2024-11-18 161351](https://github.com/user-attachments/assets/034d32db-2779-4078-a432-cefacea83d47)
 
 
